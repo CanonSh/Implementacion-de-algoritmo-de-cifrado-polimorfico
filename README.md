@@ -8,6 +8,15 @@ Implementación y simulación de un modelo criptográfico ligero para dispositiv
 
 ---
 
+## Integrantes
+
+- Jefferson Alfonso Platero Trigueros PT230469
+- Mario Alexander Alvarado Martínez AM240532
+- Gabriel Alejandro Martínez Rivera MR230355
+- Ricardo Xavier Vásquez Chacón VC231711
+
+---
+
 ## Características Principales
 
 - **Generación Dinámica de Llaves:** Derivación de tablas en cascada mediante funciones de mezcla, generación y mutación a partir de números primos ($P, Q$) y semillas ($S$).
